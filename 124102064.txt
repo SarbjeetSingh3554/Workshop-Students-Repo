@@ -1,0 +1,5 @@
+how to fork a file
+get others work and bringing it to our local machine
+commmiting and tracking
+making repository
+making and awitching between branches
